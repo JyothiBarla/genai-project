@@ -1,4 +1,4 @@
-# Blend GenAI Project
+# GenAI Project
 
 Sales data analysis with LLM-powered SQL generation and document Q&A
 
